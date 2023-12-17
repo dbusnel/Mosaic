@@ -1,0 +1,12 @@
+# ninja log v5
+14	1194	7209473550609299	CMakeFiles/imgLib.dir/lib/src/FileTreeNavigator.cpp.obj	72e8b8010ef1c29f
+7	826	7209473546969535	CMakeFiles/imgLib.dir/lib/src/Mosaic.cpp.obj	8b38b48a1d302be1
+1529	1991	7209466360542088	CMakeFiles/imgLib.dir/lib/src/Pixel.cpp.obj	820e8da6dc382673
+4	1623	7209473555239875	CMakeFiles/imgLib.dir/lib/src/Image.cpp.obj	907f998490ead71
+1912	2498	7209466365847907	CMakeFiles/imgLib.dir/lib/src/Node.cpp.obj	6782ae824c6ff850
+4	631	7209474055145652	CMakeFiles/Photomosaic.dir/main.cpp.obj	69f4c2db2aa64091
+13	3236	7209466373208223	CMakeFiles/imgLib.dir/lib/src/Editor.cpp.obj	404a197ca122d0fe
+1623	1737	7209473556297059	libimgLib.a	d10940b1efa272bf
+11	1571	7209473554721263	CMakeFiles/Photomosaic.dir/lib/src/Image.cpp.obj	aabed240bd5010d4
+632	836	7209474057210125	Photomosaic.exe	c1227b43820dddfa
+3	386	7235200344238495	build.ninja	3ea87655a4521cdc

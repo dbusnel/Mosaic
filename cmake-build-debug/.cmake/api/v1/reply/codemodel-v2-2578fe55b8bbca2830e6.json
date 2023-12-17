@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Photomosaic",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Photomosaic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Photomosaic-Debug-d5b2d512591c561f2506.json",
+					"name" : "Photomosaic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "imgLib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-imgLib-Debug-478b794a67efe8432557.json",
+					"name" : "imgLib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/dbusn/OneDrive/Documents/GitHub/23f-pa03-dbusnel/cmake-build-debug",
+		"source" : "C:/Users/dbusn/OneDrive/Documents/GitHub/23f-pa03-dbusnel"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
