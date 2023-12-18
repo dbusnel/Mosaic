@@ -18,5 +18,5 @@ To run, reference the following command line arg combinations:
    - Allows user to supply parameters through console
   
   Example output:
-  ![example mosaic](https://ibb.co/GvvCgB1)
+  ![example mosaic]((https://i.ibb.co/XZZFmNd/output.png)https://i.ibb.co/XZZFmNd/output.png)
 
