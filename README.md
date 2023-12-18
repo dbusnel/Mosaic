@@ -1,6 +1,6 @@
 # Photomosaics
 
-Developer Name: David Busnel
+Developed by: David Busnel
 
 ## How to Run the Program
 
