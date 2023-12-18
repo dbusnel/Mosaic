@@ -16,4 +16,7 @@ To run, reference the following command line arg combinations:
  - No args:
    - Interactive mode
    - Allows user to supply parameters through console
+  
+  Example output:
+  ![example mosaic](https://ibb.co/GvvCgB1)
 
